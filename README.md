@@ -36,7 +36,7 @@ The instructor can view assessment page to see updating feedback (e.g. difficult
 
 ## 🚩Demo Video
 If the introduction above seems abstract, just watch this video! (which is a complete user case.) Please send us feedback! ♥
-[![Video Cover - Learning Bridge](http://sypei.com/BulletComment/demo/img/VideoCover.png)](http://sypei.com/BulletComment/demo/demo.html)
+[![Video Cover - Learning Bridge](http://sypei.com/BulletComment/demo/img/VideoCover.png)](http://sypei.com/BulletComment/demo/demo.html){:target="_blank"}
 Copyright-free music used in the video:
 <br />Composer: Whitesand (Martynas Lau)
 <br />Year: 2018
@@ -54,7 +54,7 @@ The bullet comment system and assessment interface are built with html and js, w
 The current version requires us to install OpenPose first. Please check their install guide in [References](##♥References (Great thanks!)).
 In future, we will integrate it to our server. 
 If you already have it, you just need to have a webcam, open your browser and run a few commands to use LearningBridge:
-1. Watch the lecture (and ask questions) online: [here](http://sypei.com/BulletComment/demo/index.html)
+1. Watch the lecture (and ask questions) online: [here](http://sypei.com/BulletComment/demo/index.html){:target="_blank"}
 2. From the repo, we only need to download data_process.js because all the rest are set up on a server (unless you wanna rebuild from scratch).
 3. Move data_process.js into the OpenPose's root directory.
 4. Create a new folder "data" in the OpenPose's root directory.
@@ -71,12 +71,12 @@ bin\OpenPoseDemo.exe --net_resolution 320x256 -write_json data\
  
 7. In the other terminal, run data_process.js: <code> node data_process.js</code> If we are using Windows, use a bash terminal here.
 
-6. Access the assessment page if you are the instructor: [here](http://sypei.com/BulletComment/demo/assessment.html)
+6. Access the assessment page if you are the instructor: [here](http://sypei.com/BulletComment/demo/assessment.html){:target="_blank"}
 <br /><br />
 
 
 ## ♥References (Great thanks!)
-1. [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-2. [DanmuPlayer](https://github.com/chiruom/DanmuPlayer)
+1. [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose){:target="_blank"}
+2. [DanmuPlayer](https://github.com/chiruom/DanmuPlayer){:target="_blank"}
 
 To be added.
