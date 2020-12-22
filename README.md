@@ -9,7 +9,6 @@ LearningBridge - an AI platform for online physical skill learning<br />
 4. [Install Guide](##⚽InstallGuide)
 5. [References](##♥References (Great thanks!))
 <br />
-<br />
 
 ## 🔔Introduction
 
