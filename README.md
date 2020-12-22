@@ -3,11 +3,11 @@
 LearningBridge - an AI platform for online physical skill learning<br />
 **If you are in a hurry, just watch Demo Video!**
 <br /><br />
-1. [Introduction](##Introduction)
-2. [Demo Video](##🚩DemoVideo)
-3. [Implementation](##🍃Implementation)
-4. [Install Guide](##⚽InstallGuide)
-5. [References](##♥References (Great thanks!))
+1. [Introduction](#introduction)
+2. [Demo Video](#demo-video)
+3. [Implementation](#implementation)
+4. [Install Guide](#install-guide)
+5. [References](#references-(great-thanks!))
 <br />
 
 ## 🔔Introduction
