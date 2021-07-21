@@ -1,6 +1,6 @@
 # 📕LearningBridge
 
-LearningBridge - an AI platform for online physical skill learning<br />
+LearningBridge - an AI-driven platform for online physical skill learning<br />
 **If you are in a hurry, just watch Demo Video!**
 <br /><br />
 1. [Introduction](#introduction)
