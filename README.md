@@ -42,6 +42,12 @@ Copyright-free music used in the video:
 <br />Year: 2018
 <br />Title: Melody Of My Dreams
 <br /><br />
+Credits to creators of Youtube videos:<br /> 
+https://www.youtube.com/watch?v=4pKly2JojMw<br />
+https://www.youtube.com/watch?v=_leI4qFfPVw<br />
+https://www.youtube.com/watch?v=pvIjsG5Svck<br />
+https://www.youtube.com/watch?v=N_s9em1xTqU<br />
+
 
 
 ## 🍃Implementation
